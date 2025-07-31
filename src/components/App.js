@@ -23,7 +23,6 @@ function About() {
     </div>
   )
 }
-{/* write an <About> component here */}
 
 
 function App() {
